@@ -3,7 +3,7 @@
 I have compiled both video and text resources for each subject, allowing you to choose the option that best suits your learning preferences.
 
 ## Pins Description
-![Arduino](https://github.com/stefaniavrIM/arduino-refresher/blob/main/guide.png)
+<img src="https://github.com/stefaniavrIM/arduino-refresher/blob/main/guide.png" alt="arduino" style="width:600px;"/>
 
 ## Learning Resources
 
